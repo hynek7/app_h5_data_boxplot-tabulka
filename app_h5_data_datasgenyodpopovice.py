@@ -16,7 +16,6 @@ import glob
 H5_FILE_PATH = 'petacc3-student_project.h5'
 ANNOT_FILE_PATH = 'petacc3-for_student_project-annot.feather'
 
-
 # --- POMOCNÉ FUNKCE ---
 
 @st.cache_data
